@@ -1,4 +1,4 @@
-# Campuszone - A Full stop college Application
+# Campuszone - A Full stop College Application
 
 * Its an mobile application which satisfies the current needs of students and also educational institutes.  
 * The information shared can be accessible always without any delay ,making it a comfortable means of communication.  
